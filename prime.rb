@@ -10,5 +10,5 @@ end
   end
 end
      true
-    prime
+    
 end
