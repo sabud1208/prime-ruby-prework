@@ -9,6 +9,6 @@ end
        prime = false
   end
 end
-prime=
+prime= true
 prime
 end
