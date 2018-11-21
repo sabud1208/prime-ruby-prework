@@ -11,5 +11,5 @@ end
       prime = true
   end
 end
-
+prime
 end
