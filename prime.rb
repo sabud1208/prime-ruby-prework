@@ -2,10 +2,10 @@ require "pry"
 
 def prime?(num)
   if num < 2
-  prime = false
+    prime = false
 end
   (1...num).to_a.each do |number|
-    if num % number == 0
+  if num % number == 0
     prime = false
   end
 end
