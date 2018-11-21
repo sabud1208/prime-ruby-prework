@@ -1,7 +1,7 @@
 require "pry"
 
 def prime?(num)
-  if num < 
+  if num < 2
   prime = false
 end
   (1...num).to_a.each do |number|
