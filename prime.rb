@@ -8,7 +8,7 @@ counter
         else
      prime= true
   end
-  counter += 1
+  
 end
   prime
 end
