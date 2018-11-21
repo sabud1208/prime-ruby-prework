@@ -6,9 +6,9 @@ def prime?(num)
 end
   (1...num).to_a.each do |number|
     if num % number == 0
-      prfalse
+      prime=false
     else
-      true
+      prime=true
   end
 end
 end
