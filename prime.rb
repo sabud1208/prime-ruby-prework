@@ -1,5 +1,5 @@
 require "pry"
 
 def prime?(num)
-  1..3
+  1..
 end
