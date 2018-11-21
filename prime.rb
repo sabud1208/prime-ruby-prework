@@ -1,7 +1,7 @@
 require "pry"
 
 def prime?(num)
-  num 
+  num < 0 
   (1...num).to_a.each do |number|
     if num % number == 0
       false
