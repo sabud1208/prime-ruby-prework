@@ -1,5 +1,5 @@
 require "pry"
 
 def prime?(num)
-  (1...num).to_a.each do
+  (1...num).to_a.each do |number|
 end
